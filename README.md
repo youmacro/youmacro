@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+
 <!--
 **youmacro/youmacro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
