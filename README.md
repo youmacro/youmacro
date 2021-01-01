@@ -1,4 +1,4 @@
-![YouMacro Logo](https://youmacro/logo_horizontal.png)
+![YouMacro Logo](https://youmacro.com/logo_horizontal.png)
 
 ### YouMacro Links
 * [YouMacro on the web](https://youmacro.com)
