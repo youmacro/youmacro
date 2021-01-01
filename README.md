@@ -1,3 +1,5 @@
+![YouMacro Logo](https://youmacro/logo_horizontal.png)
+
 ### YouMacro Links
 * [YouMacro on the web](https://youmacro.com)
 * [YouMacro on YouTube](https://www.youtube.com/channel/UCJobMxWHx7jzsX0dD4YQZ8g)
